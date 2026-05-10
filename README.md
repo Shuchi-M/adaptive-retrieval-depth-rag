@@ -33,7 +33,7 @@ where `E(k)` is the error rate at depth `k`, `C(k) = avg_k / max_k` is the norma
 
 | File | Description |
 |------|-------------|
-| `Project_final_workflow_2.ipynb` | Complete experiment notebook — all models, datasets, plots, and results |
+| `Project_final_workflow_2_clean.ipynb` | Complete experiment notebook — all models, datasets, plots, and results |
 | `README.md` | This file |
 
 ---
